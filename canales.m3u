@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Argentina",5TV
-https://list.iptvcat.com/my_list/s/1c92c6cc5228b994a71e2d51df7b7a3b.m3u8
+https://deportes.ksdjugfsddeports.com:9092
 
 #EXTINF:-1 group-title="Noticias",A24
 https://deportes.ksdjugfsddeports.com:9092
@@ -92,5 +92,6 @@ http://www.ienlace-tv.com:1935/live7/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Deportes",DirecTV Sports
 https://dai.google.com/linear/hls/event/directvsports/master.m3u8
+
 
 
